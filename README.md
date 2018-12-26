@@ -1,11 +1,9 @@
-# 100-days-wirehead-log
-The log of my 100 Days Of Code (to keep separate from main repo and let people fork a clean version)
+# 301-days-wirehead-log
+The log of my 301 Days Of Code
 
-**100 Days of Code**
-[Round 1](R1.md) - Nov 25, 2018 - whenever
+**301 Days of Code**
+[Round 1](R1.md) - January 3, 2019 - All Hallows Eve 2019
 
-**100 Days of Cymraeg**
-[Round 1](CY-R1.md) - Nov 24, 2018 - whenever
 
 ## Earned Certificates
 SoloLearn - Python3 - Dec 11, 2018
