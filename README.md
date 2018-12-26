@@ -1,9 +1,24 @@
 # 301-days-wirehead-log
+## Project Rei Toei
+
 The log of my 301 Days Of Code
 
-**301 Days of Code**
 [Round 1](R1.md) - January 3, 2019 - All Hallows Eve 2019
 
+This round of development is to create the processes and the actual mechanism
+that is Rei.
 
-## Earned Certificates
-SoloLearn - Python3 - Dec 11, 2018
+Rei is my personal assistant, and among the various functions she will execute
+are:
+ - Maintenance and update of servers
+ - Reporting of daily status of said servers
+ - Secretarial Functions
+    - Scheduling
+    - Email and Communications assessment
+    - Assistance in writing documents for web and publication
+    - Garnering information as requested
+    - Financial advice
+
+## Parameters
+
+ -
