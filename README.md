@@ -17,8 +17,15 @@ are:
     - Email and Communications assessment
     - Assistance in writing documents for web and publication
     - Garnering information as requested
+    - Nag and help with health related things (mental and physical)
     - Financial advice
 
 ## Parameters
 
- -
+ - There will be several stages of development, and they might run concurrent
+ to one another
+    - User creation phase
+    - Core Support Process Phases
+
+
+Little Things About [Rei](Rei.md)
