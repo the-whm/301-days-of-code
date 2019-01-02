@@ -13,11 +13,11 @@ in fact I am planning in a 360 day cycle. This is six iterations of 60 days in
 total. They break down in the following manner:
 
   - Iteration 1 - Days 1-60 - ![Baby Rei](images/baby-rei-2.jpeg)
-  - Iteration 2 - Days 61-120 - ![Toddler Rei](images/toddler-rei-2.jpg)
+  - Iteration 2 - Days 61-120 - ![Toddler Rei](images/toddler-rei-2.jpeg)
   - Iteration 3 - Days 121-180 - ![Child Rei](images/child-rei-2.jpeg)
   - Iteration 4 - Days 181-240 - ![Tween Rei](images/tween-rei-2.jpeg)
   - Iteration 5 - Days 241-300 - ![Teen Rei](images/teen-rei-2.jpeg)
-  - Iteration 6 - Days 301-360 - ![Adult Rei](images/adult-rei-2.jpeg)  
+  - Iteration 6 - Days 301-360 - ![Adult Rei](images/adult-rei-2.jpg)  
 
 
 Rei is my personal assistant, and among the various functions she will execute
