@@ -8,6 +8,18 @@ The log of my 301 Days Of Code
 This round of development is to create the processes and the actual mechanism
 that is Rei.
 
+I am well aware that this project will take more than 301 days to complete, and
+in fact I am planning in a 360 day cycle. This is six iterations of 60 days in
+total. They break down in the following manner:
+
+  - Iteration 1 - Days 1-60 - ! [Baby Rei](images/baby-rei.jpeg)
+  - Iteration 2 - Days 61-120 - ! [Toddler Rei](images/toddler-rei.jpg)
+  - Iteration 3 - Days 121-180 - ! [Child Rei](images/child-rei.jpeg)
+  - Iteration 4 - Days 181-240 - ! [Tween Rei](images/tween-rei.jpeg)
+  - Iteration 5 - Days 241-300 - ! [Teen Rei](images/teen-rei.jpeg)
+  - Iteration 6 - Days 301-360 - ! [Adult Rei](images/adult-rei.jpeg)  
+
+
 Rei is my personal assistant, and among the various functions she will execute
 are:
  - Maintenance and update of servers
