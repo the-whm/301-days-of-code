@@ -19,6 +19,7 @@ total. They break down in the following manner:
   - Iteration 5 - Days 241-300 - ![Teen Rei](images/teen-rei-2.jpeg)
   - Iteration 6 - Days 301-360 - ![Adult Rei](images/adult-rei-2.jpg)  
 
+The breakdown of the iterations is [here](iterations.md).
 
 Rei is my personal assistant, and among the various functions she will execute
 are:
